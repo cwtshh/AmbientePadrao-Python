@@ -39,6 +39,14 @@ Ou
 > pip install -r requirements.txt
 ```
 
+## 4- Por ultimo mudamos o interpretador para o python presente no venv
+
+### No VsCode
+Pressione ctrl + shift + p e digite
+```
+> Select Interpreter
+```
+
 
 
 

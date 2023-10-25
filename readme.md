@@ -47,6 +47,18 @@ Pressione ctrl + shift + p e digite
 > Select Interpreter
 ```
 
+Clique em:
+```
+Enter interpreter path
+```
+
+Navege até o venv e selecione o arquivo python.exe. Geralmente está localizado em:
+
+```
+.\<nome_do_ambiente>\Scripts\python.exe
+```
+
+# Pronto! Está tudo certo para usar.
 
 
 
